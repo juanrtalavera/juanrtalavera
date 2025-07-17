@@ -28,7 +28,7 @@ const Index = () => {
                 <a href="mailto:juanrodrigueztalavera@gmail.com" className="underline hover:text-white/80 transition-colors">
                   juanrodrigueztalavera@gmail.com
                 </a>
-                {" • "}
+                {" y "}
                 <a href="https://www.linkedin.com/in/juanrodrigueztalavera/" target="_blank" rel="noopener noreferrer" className="underline hover:text-white/80 transition-colors">
                   LinkedIn
                 </a>

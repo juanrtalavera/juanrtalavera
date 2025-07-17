@@ -17,7 +17,7 @@ const Index = () => {
               </p>
               
               <p className="text-white leading-relaxed font-semibold text-xl">
-                Escribe el segundo párrafo aquí...
+                A lo largo de los años, ha trabajado tanto en cliente final como en agencia, liderando y gestionando proyectos de analítica digital, CRO y desarrollo de producto digital para compañías como Leroy Merlin, Repsol, Zara, Mango, Luzia, Mercadona, Enzo Ventures, Iberia, Hangar 51, El Confidencial o Coopeuch, entre otras.
               </p>
               
               <p className="text-white leading-relaxed font-semibold text-xl">

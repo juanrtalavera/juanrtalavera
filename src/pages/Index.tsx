@@ -24,7 +24,7 @@ const Index = () => {
                 Escribe el tercer párrafo aquí...
               </p>
               
-              <p contentEditable className="text-white leading-relaxed font-semibold text-xl">
+              <p contentEditable style={{}} className="text-white leading-relaxed font-semibold text-xl" suppressContentEditableWarning={true}>
                 Escribe el cuarto párrafo aquí...
               </p>
             </section>

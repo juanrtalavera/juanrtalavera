@@ -24,8 +24,14 @@ const Index = () => {
                 Escribe el tercer párrafo aquí...
               </p>
               
-              <p contentEditable style={{}} className="text-white leading-relaxed font-semibold text-xl" suppressContentEditableWarning={true}>
-                Escribe el cuarto párrafo aquí...
+              <p className="text-white leading-relaxed font-medium text-lg">
+                <a href="mailto:juanrodrigueztalavera@gmail.com" className="underline hover:text-white/80 transition-colors">
+                  juanrodrigueztalavera@gmail.com
+                </a>
+                {" • "}
+                <a href="https://www.linkedin.com/in/juanrodrigueztalavera/" target="_blank" rel="noopener noreferrer" className="underline hover:text-white/80 transition-colors">
+                  LinkedIn
+                </a>
               </p>
             </section>
             

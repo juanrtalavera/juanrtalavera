@@ -1,7 +1,9 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
+
 const Index = () => {
-  return <div className="min-h-screen bg-custom-dark">
+  return (
+    <div className="min-h-screen bg-custom-dark">
       <Navigation />
       
       <main className="pt-20 pb-16">
@@ -10,17 +12,24 @@ const Index = () => {
             
             {/* Main bio section */}
             <section className="space-y-8">
-              <p className="text-white leading-relaxed font-semibold text-xl">Juan Rodriguez Talavera trabaja en la intersección entre analítica digital, CRO, estrategia de producto y experiencia de usuario. Con base en Madrid, ha trabajado en equipos multidisciplinares con clientes de diferentes industrias y sectores. </p>
+              <p contentEditable className="text-white leading-relaxed font-semibold text-xl">
+                Juan Rodriguez Talavera trabaja en la intersección entre analítica digital, CRO, estrategia de producto y experiencia de usuario. Con base en Madrid, ha trabajado en equipos multidisciplinares con clientes de diferentes industrias y sectores.
+              </p>
               
-              <p className="text-white leading-relaxed text-xl font-semibold">
-            </p>
+              <p contentEditable className="text-white leading-relaxed font-semibold text-xl">
+                Escribe el segundo párrafo aquí...
+              </p>
               
-              
+              <p contentEditable className="text-white leading-relaxed font-semibold text-xl">
+                Escribe el tercer párrafo aquí...
+              </p>
             </section>
             
           </div>
         </div>
       </main>
-    </div>;
+    </div>
+  );
 };
+
 export default Index;

@@ -12,15 +12,15 @@ const Index = () => {
             
             {/* Main bio section */}
             <section className="space-y-8">
-              <p contentEditable className="text-white leading-relaxed font-semibold text-xl">
+              <p className="text-white leading-relaxed font-semibold text-xl">
                 Juan Rodriguez Talavera trabaja en la intersección entre analítica digital, CRO, estrategia de producto y experiencia de usuario. Con base en Madrid, ha trabajado en equipos multidisciplinares con clientes de diferentes industrias y sectores.
               </p>
               
-              <p contentEditable className="text-white leading-relaxed font-semibold text-xl">
+              <p className="text-white leading-relaxed font-semibold text-xl">
                 Escribe el segundo párrafo aquí...
               </p>
               
-              <p contentEditable className="text-white leading-relaxed font-semibold text-xl">
+              <p className="text-white leading-relaxed font-semibold text-xl">
                 Escribe el tercer párrafo aquí...
               </p>
             </section>

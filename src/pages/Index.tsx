@@ -21,7 +21,7 @@ const Index = () => {
               </p>
               
               <p className="text-white leading-relaxed font-semibold text-xl">
-                Escribe el tercer párrafo aquí...
+                Interesado por la cultura organizativa, los procesos de trabajo, el liderazgo, la innovación y las operaciones, escribe y reflexiona sobre estos temas en su newsletter y podcast Rodobo.es, un espacio desde el que explora cómo mejorar la forma en la que trabajamos, decidimos y colaboramos.
               </p>
               
               <p className="text-white leading-relaxed font-medium text-lg">

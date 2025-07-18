@@ -1,3 +1,4 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -117,8 +118,13 @@ All colors MUST be HSL.
     transition: transform 0.1s ease;
   }
 
-  /* Show normal cursor on links */
+  /* Hide custom cursor and show normal cursor on links */
   a, button {
     cursor: pointer !important;
+  }
+  
+  a:hover ~ .custom-cursor,
+  button:hover ~ .custom-cursor {
+    display: none;
   }
 }

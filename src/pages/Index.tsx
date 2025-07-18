@@ -11,7 +11,7 @@ const Index = () => {
           <div className="space-y-12">
             
             {/* Main bio section */}
-            <section className="space-y-8">
+            <section className="space-y-4">
               <p className="text-white leading-relaxed font-semibold text-2xl opacity-0 animate-fade-in" style={{animationDelay: '0.2s', animationFillMode: 'forwards'}}>
                 Juan Rodriguez Talavera trabaja en la intersección entre analítica digital, CRO, estrategia de producto y experiencia de usuario. Con base en Madrid, ha trabajado en equipos multidisciplinares con clientes de diferentes industrias y sectores.
               </p>

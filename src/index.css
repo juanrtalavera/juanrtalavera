@@ -107,8 +107,8 @@ All colors MUST be HSL.
   /* Custom cursor */
   .custom-cursor {
     position: fixed;
-    width: 20px;
-    height: 20px;
+    width: 12px;
+    height: 12px;
     background: white;
     border-radius: 50%;
     pointer-events: none;
